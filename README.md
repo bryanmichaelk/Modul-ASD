@@ -18,4 +18,8 @@
 - LinkedList
 - Generics
 - Latihan
-
+## Modeul 4: Stack, Queue & Deque
+- Stack
+- Queue
+- Deque
+- Latihan
