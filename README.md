@@ -18,8 +18,17 @@
 - LinkedList
 - Generics
 - Latihan
-## Modeul 4: Stack, Queue & Deque
+## Modul 4: Stack, Queue & Deque
 - Stack
 - Queue
 - Deque
 - Latihan
+## Modul 5: Map & Set
+- Map Interface
+- HashMap Class
+- TreeMap Class
+- Set Interface
+- HashSet Class
+- LinkedHashSet Class
+- TreeSet Class
+- Ringkasan
