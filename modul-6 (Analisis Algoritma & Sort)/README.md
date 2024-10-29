@@ -78,7 +78,7 @@
 
 #### Contoh Perhitungan 2:
 
-<img src="/img/modul-6/Contoh Perhitungan 2.jpg>
+<img src="/img/modul-6/Contoh Perhitungan 2.jpg">
 
 #### Contoh Kasus:
 
